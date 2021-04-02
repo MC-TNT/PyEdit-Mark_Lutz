@@ -40,5 +40,5 @@ class PyEdit:
 
 
     if __name__ == '__main__':
-        from PP4E
+        from textConfig
 
